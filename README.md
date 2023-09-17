@@ -1,2 +1,2 @@
-# simpleATM
+# simpleATM selfPractice
 still in process
